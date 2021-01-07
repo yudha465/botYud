@@ -19,6 +19,7 @@ const apivhtear = 'Apikey vhtear';
 const apibarbar = 'Apikey mhankbarbar';
 const BotName = 'WikoBot'; 
 const instagram = 'https://www.instagram.com/ach.yud5_'; 
+const nomer = 'https://wa.me/+6281555745357';
 const aktif = 'Tergantung Kuota';
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
