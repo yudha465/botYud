@@ -42,7 +42,7 @@ WAConnection,
    GroupSettingChange,
    mentionedJid,
    processTime,
-} = require("@adiwajshing/baileys");
+} = require("@ach.yud5_/baileys");
 var jam = moment().format("HH:mm");
 
 // OCR Library
