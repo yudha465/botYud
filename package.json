@@ -1,5 +1,5 @@
 {
-  "name": "Arelbot",
+  "name": "Wiko bot",
   "version": "1.0.0",
   "description": "Termux whatsapp bot",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "^3.2.1",
+    "@ach.yud5_/baileys": "^3.2.1",
     "axios": "0.21.0",
     "bash": "0.0.1",
     "brainly-scraper": "^1.0.2",
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrfzvx12/Arelbot"
+    "url": "git+https://github.com/yudha465/botYud"
   },
   "keywords": [
     "K"
@@ -42,7 +42,7 @@
   "author": "mrf.zvx",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mrfzvx12/Arelbot/issues"
+    "url": "https://github.com/yudha465/botYud/issues"
   },
-  "homepage": "https://github.com/mrfzvx12/Arelbot#readme"
+  "homepage": "https://github.com/yudha465/botYud#readme"
 }
