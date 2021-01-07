@@ -5,6 +5,8 @@ const imageToBase64 = require('image-to-base64');
 const get = require('got')
 const fs = require("fs");
 const dl = require("./lib/downloadImage.js");
+const donate = require("./lib/donate.js");
+const info = require("./lib/info.js");
 const fetch = require('node-fetch');
 const urlencode = require("urlencode");
 const axios = require("axios");
@@ -15,13 +17,13 @@ const menu = require("./lib/menu.js")
 
 const apivhtear = 'Apikey vhtear';
 const apibarbar = 'Apikey mhankbarbar';
-const BotName = 'Wiko Bot'; 
+const BotName = 'WikoBot'; 
 const instagram = 'https://www.instagram.com/ach.yud5_'; 
 const aktif = 'Tergantung Kuota';
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
             + 'FN:Yudha\n' // Nama kamu
-            + 'ORG:Wiko Bot;\n' // Nama bot
+            + 'ORG:WikoBot;\n' // Nama bot
             + 'TEL;type=CELL;type=VOICE;waid=6280000000000:+62 000-0000-0000\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 const
